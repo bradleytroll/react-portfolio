@@ -6,6 +6,20 @@
   background-color: #4b8da0;
 }
 
+
+.centered-list {
+  text-align: center; /* Center-align the text inside the list items */
+  padding-left: 0; /* Remove default padding */
+  margin: 0 auto; /* Center the list itself horizontally if necessary */
+  width: fit-content; /* Shrink-wrap the list to its contents */
+  list-style-position: inside; /* Brings the bullets inside to be affected by text-align */
+}
+
+.centered-list li {
+  list-style-type: disc; /* Enable bullets */
+  display: block; /* Make each item a block to better control its own layout */
+}
+
 .App {
   text-align: center;
   background-color: rgb(181, 231, 214);
