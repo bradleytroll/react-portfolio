@@ -3,13 +3,13 @@ import { NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <header>
+        <header className='header'>
             <h1> Bradley Troll </h1>
             <nav>
-                <NavLink exact to="/about" activeClassName="active">About Me</NavLink>
-                <NavLink to="/portfolio" activeClassName='active'>Portfolio</NavLink>
-                <NavLink to="/contact" activeClassName='active'>Contact</NavLink>
-                <NavLink to="/resume" activeClassName='active'>Resume</NavLink>
+                <NavLink exact to="/about" activeClassName="active"> About Me </NavLink>
+                <NavLink to="/portfolio" activeClassName='active'> Portfolio </NavLink>
+                <NavLink to="/contact" activeClassName='active'> Contact </NavLink>
+                <NavLink to="/resume" activeClassName='active'> Resume </NavLink>
             </nav>
         </header>
     );
