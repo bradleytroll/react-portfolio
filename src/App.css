@@ -1,13 +1,14 @@
 .header {
-  background-color: #61dafb;
+  background-color: #4b8da0;
 }
 
 .footer {
-  background-color: #61dafb;
+  background-color: #4b8da0;
 }
 
 .App {
   text-align: center;
+  background-color: rgb(181, 231, 214);
 }
 
 .App-logo {
