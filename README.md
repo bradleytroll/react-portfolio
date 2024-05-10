@@ -64,5 +64,6 @@ Contributions to the portfolio are welcomed. To contribute:
 5. Create a new Pull Request.
 
 ## GitHub Repo
-You can find the GitHub repository at:
+You can find the GitHub repository at: https://github.com/bradleytroll/react-portfolio
+
 
