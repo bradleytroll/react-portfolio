@@ -11,7 +11,7 @@ const Portfolio = () => {
         { title: "FunCast: Theme Park Wait Times & Weather", imageUrl: funCastImage, liveUrl: "https://bradleytroll.github.io/FunCast/", repoUrl: "https://github.com/bradleytroll/FunCast" },
         { title: "Buffy Trivia Challenge", imageUrl: buffyImage, liveUrl: "https://bradleytroll.github.io/buffy-trivia-challenge/", repoUrl: "https://github.com/bradleytroll/buffy-trivia-challenge" },
         { title: "Five-Day Weather Forecaster", imageUrl: fiveDayForecasterImage, liveUrl: "https://bradleytroll.github.io/five-day-forecaster/", repoUrl: "https://github.com/bradleytroll/five-day-forecaster" },
-        { title: "Simple Work Day Scheduler", imageUrl: workDayScheduler, liveUrl: "https://bradleytroll.github.io/five-day-forecaster/", repoUrl: "https://github.com/bradleytroll/work-day-scheduler" },
+        { title: "Simple Work Day Scheduler", imageUrl: workDayScheduler, liveUrl: "https://bradleytroll.github.io/work-day-scheduler/", repoUrl: "https://github.com/bradleytroll/work-day-scheduler" },
         { title: "ShelfLife: Book Social Media", imageUrl: shelfLife, liveUrl: "https://shelflife-91f231d5543b.herokuapp.com/", repoUrl: "https://github.com/bradleytroll/round2" },
         { title: "Password Generator", imageUrl: passwordGenerator, liveUrl: "https://bradleytroll.github.io/password-generator/", repoUrl: "https://github.com/bradleytroll/password-generator" },
 
