@@ -13,10 +13,10 @@
 ## Description
 This project is a personal developer portfolio website built using React. It features several sections including About, Portfolio, Contact, and Resume, allowing developers to showcase their skills, projects, and professional information.
 
-<img src="/src/components/About.jsx" alt="About" width="600" height="auto">
-<img src="/src/components/Portfolio.jsx" alt="Portfolio" width="600" height="auto">
-<img src="/src/components/Contact.jsx" alt="Contact" width="600" height="auto">
-<img src="/src/components/Resume.jsx" alt="Resume" width="600" height="auto">
+<img src="/src/assets/about.png" alt="About" width="600" height="auto">
+<img src="/src/assets/portfolio.png" alt="Portfolio" width="600" height="auto">
+<img src="/src/assets/contact.png" alt="Contact" width="600" height="auto">
+<img src="/src/assets/resume.png" alt="Resume" width="600" height="auto">
 
 ## Installation
 To set up this project locally, follow these steps:
